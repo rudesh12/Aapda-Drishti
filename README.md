@@ -26,7 +26,7 @@ Aapda Drishti is an innovative disaster management and early warning system desi
 
 
 ## 🎥 Disaster Extrapolation Video
-![[Extrapolation Demo]](frame extrapolation.mp4)
+![[frame extrapolation.mp4]]
 
 This video demonstrates how Aapda Drishti’s AI predicts disaster progression using frame extrapolation. The model analyzes satellite and drone footage to anticipate the evolution of disasters such as landslides, floods, and earthquakes, providing life-saving early warnings.
 
